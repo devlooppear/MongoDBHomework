@@ -114,3 +114,17 @@ _DICA: nas consultas que realizar por linha de comando, utilize “.pretty()” 
 Resultados da aula prática:
 
 É esperado que ao término da prática o aluno saiba desenvolver bancos de dados não relacionais orientados a documentos utilizando o MongoDB, incluindo a criação de collections e inserção/atualização de documentos, bem como a realização de consultas à base de dados.
+
+### Como usar
+
+```bash
+docker compose up
+```
+
+```bash
+npm run dev
+```
+
+Acessar
+
+http://localhost:3000/clientes
